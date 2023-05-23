@@ -35,10 +35,16 @@
 - **Tutorials ("Ayudantias"):** Monday/Wednesday/Friday 6PM-10PM
 - **Course Calendar** → [here](https://docs.google.com/spreadsheets/d/1WyrYR9QEIPNapzDEqr6CRu7BLoY2Blck5yRE84LYQQs/edit#gid=0)
 - **Course Platform** → [here](https://login.codingdojo.com/login)
+- **Drive Folder with Recordings** → [here](https://drive.google.com/drive/folders/1ujSUumKPw5_XyEP5aJ0RpiTDflhLAgqe?usp=share_link)
 - **WebFun Belt Exams:**
   - 1st Attemp: Saturday June 10th, 2023
   - 2d Attemp: Wednesday June 14th, 2023
   - 3rd Attemp: Saturday June 17th, 2023
+  > **NOTE:** All core assignments has to be submitted to take Belt Exam
+- **Stack Pass Requirements:**
+  - Min grade of 8.0 out of 10.0 (Orange Belt or Above)
+  - 90% of Core Assignments Submitted
+  - 80% Assitince to Mandatory Lectures (Tuesday/Thursday)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
