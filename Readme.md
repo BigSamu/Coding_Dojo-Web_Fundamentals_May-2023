@@ -40,7 +40,7 @@
   - 1st Attemp: Saturday June 10th, 2023
   - 2d Attemp: Wednesday June 14th, 2023
   - 3rd Attemp: Saturday June 17th, 2023
-  > **NOTE:** All core assignments has to be submitted to take Belt Exam
+  > **NOTE:** 90% of core assignments must be submitted to take Belt Exam
 - **Stack Pass Requirements:**
   - Min grade of 8.0 out of 10.0 (Orange Belt or Above)
   - 90% of Core Assignments Submitted
