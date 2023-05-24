@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML</title>
+  </head>
+  <body>
+    <h1>Welcome to My Website</h1>
+    <hr />
+
+    <!-- I) Text Elements -->
+    <div>
+      <h2>1. Text Elements</h2>
+      <p>
+        This is a <em>sample</em> website to demonstrate basic
+        <strong>structure</strong> of an HTML site
+      </p>
+      <p>
+        This <a href="https://www.lipsum.com/">link</a> is a wensite to get
+        random text, like the one below:
+      </p>
+      <p>
+        <em
+          >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat
+          obcaecati error corporis voluptas assumenda omnis quibusdam magnam
+          officia earum numquam sunt natus explicabo harum, ducimus amet
+          nesciunt molestias. Aspernatur, modi!</em
+        >
+      </p>
+
+      <p>Below different types of header HTML tags elements</p>
+      <h1>Header 1</h1>
+      <h2>Header 2</h2>
+      <h3>Header 3</h3>
+      <h4>Header 4</h4>
+      <h5>Header 5</h5>
+      <h6>Header 6</h6>
+    </div>
+
+    <hr />
+
+    <!-- II) List Elements-->
+    <div>
+      <h2>2. List Elements</h2>
+      <p>Below are the list of my skills:</p>
+      <ul>
+        <li>Web Design</li>
+        <li>Graphic Design</li>
+        <li>Content Writing</li>
+      </ul>
+      <p>Below are the list of my favorite fruits:</p>
+      <ol>
+        <li>Apples</li>
+        <li>Pears</li>
+        <li>Images</li>
+      </ol>
+    </div>
+
+    <hr />
+
+    <!-- III) Table Elements -->
+    <div>
+      <h2>3. Tables</h2>
+      <p>This are my friends for other countries:</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>City</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>John</td>
+            <td>25</td>
+            <td>New York</td>
+          </tr>
+          <tr>
+            <td>Alice</td>
+            <td>30</td>
+            <td>London</td>
+          </tr>
+          <tr>
+            <td>Michael</td>
+            <td>35</td>
+            <td>Paris</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <br />
+    <hr />
+
+    <!-- IV) Images Elements -->
+    <div>
+      <h2>4. Images</h2>
+      <p>Local Image</p>
+      <img src="./coding_dojo.jpeg" alt="Coding Dojo" />
+
+      <p>Image from Web</p>
+      <img
+        src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80"
+        alt="Developer"
+        width="320"
+      />
+    </div>
+
+    <br />
+    <hr />
+    <!-- V) Forms Elements -->
+    <div>
+      <h2>5. Form</h2>
+      <p>You can contact me writting using this form</p>
+
+      <form>
+        <!-- 5.1) Text Fields -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" placeholder="Your name" />
+        <br />
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Your email" />
+        <br />
+        <label for="message">Message:</label>
+        <textarea
+          id="message"
+          name="message"
+          placeholder="Your message"
+        ></textarea>
+
+        <br />
+
+        <!-- 5.2) Select Field-->
+        <label for="country">Country:</label>
+        <select id="country" name="country">
+          <option value="usa">USA</option>
+          <option value="canada">Canada</option>
+          <option value="uk">UK</option>
+        </select>
+
+        <br />
+
+        <!-- 5.3) Radio and Checkbox Fields -->
+        <span>Interests:</span>
+        <input type="checkbox" id="int1" name="int" value="int1" />
+        <label for="int1">Interest 1</label>
+        <input type="checkbox" id="int2" name="int" value="int2" />
+        <label for="int2">Interest 2</label>
+        <input type="checkbox" id="int3" name="int" value="int3" />
+        <label for="int3">Interest 3</label>
+        <br />
+
+        <span>Gender:</span>
+        <input type="radio" id="gender1" name="gender" value="male" />
+        <label for="gender1">Male</label>
+        <input type="radio" id="gender2" name="gender" value="female" />
+        <label for="gender2">Female</label>
+        <input type="radio" id="gender3" name="gender" value="other" />
+        <label for="gender3">Other</label>
+
+        <br />
+
+        <!-- 5.4) Submit -->
+        <br />
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+
+    <br />
+    <hr />
+
+    <div>
+      <p>&copy; 2023 My Website. All rights reserved.</p>
+    </div>
+    
+  </body>
+</html>
