@@ -88,7 +88,7 @@ Below in details all technologies that will be reviewd during this stack
 Regarding the course, the main communication channels will be Zoom and Discord as listed below:
 
 <div style="display: flex; align-items: center;">
-  <a href="https://us06web.zoom.us/j/82906790108?pwd=Y1lrSlgzWFRTY2hodGFsOEpzT3Ztdz09" target="_blank" rel="noopener noreferrer">
+  <a href="https://us06web.zoom.us/j/82906790108?pwd=Y1lrSlgzWFRTY2hodGFsOEpzT3Ztdz09" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=fff&style=flat" alt="Zoom Badge">
   </a>
   <p style="margin-left: 5px;"> For Classes and Open Code Reviews</p>
