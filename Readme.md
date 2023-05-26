@@ -18,6 +18,7 @@
 - [Course Information](#course-information)
 - [Taught Technologies](#taught-technologies)
 - [Communication Channels](#communication-channels)
+- [Class Recordings](#class-recordings)
 - [Instruction Staff](#instruction-staff)
 - [Resources](#resources)
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
@@ -88,7 +89,6 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 <div style="display: flex; align-items: center;">
   <a href="https://us06web.zoom.us/j/82906790108?pwd=Y1lrSlgzWFRTY2hodGFsOEpzT3Ztdz09">
-  a
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=fff&style=flat" alt="Zoom Badge">
   </a>
   <p style="margin-left: 5px;"> For Classes and Open Code Reviews</p>
@@ -119,6 +119,22 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 ---
 
 <!-- *********************************************************************** -->
+<!-- IV) Class Recordings -->
+<!-- *********************************************************************** -->
+
+## Class Recordings
+
+- **Lectures (Samuel)**
+  - [Lecture 01: Web and HTML](https://us06web.zoom.us/rec/share/-gF2YetsgSgs9JyMg2puP0yWlXo5zwXA6TC-3DI6YAQjgND0IYVGv6lYMbXXUYOT.eA6D_Bpnusvu9wll
+Código de acceso: =yp5qWdV)
+  - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/RPhOwbUgPOqHrGkF9QyOH0wnZcuxgXlCZeCHpAmONUsaNcVAsox0gY3ZiI8pB8Tf.H7lm2X-6IGqzvg4L
+Código de acceso: Syav=?^1)
+
+- **Tutorials (Jorge)**
+  - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NcO_klTNdjHDwzm25DHTKAsgYaSsS0-R4h6o2-ONwxcxb_ooKFwgfzDjaHtPLA.4CuXKdMYf8SDZYCw
+Código de acceso: FZ6QQ^Dp)
+
+<!-- *********************************************************************** -->
 <!-- V) INSTRUCTION STAFF -->
 <!-- *********************************************************************** -->
 
@@ -132,7 +148,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 ---
 
 <!-- *********************************************************************** -->
-<!-- VI) INSTRUCTION STAFF -->
+<!-- VI) RESOURCES -->
 <!-- *********************************************************************** -->
 
 ## Resources
@@ -147,6 +163,9 @@ During the course, useful resources will be listed below to guidance studnets in
 - **Git and Terminal**
   - [Git Tutorial](https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256)
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
+
+- **CSS**
+  - [Display:Inline vs Inline-Block vs Block] (https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
