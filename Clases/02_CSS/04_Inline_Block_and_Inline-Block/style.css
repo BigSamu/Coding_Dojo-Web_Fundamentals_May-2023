@@ -1,0 +1,48 @@
+.container {
+  padding: 20px;
+}
+
+.box {
+  width: 150px;
+  height: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  /* margin: 10px auto; */
+  padding: 10px;
+  text-align: center;
+}
+
+.inline {
+  display: inline;
+  background-color: lightblue;
+}
+
+.block {
+  display: block;
+  background-color: lightgreen;
+}
+
+.inline-block {
+  display: inline-block;
+  background-color: lightyellow;
+}
+
+.inline-block-2 {
+  display: inline-block;
+  background-color: tomato;
+  /* vertical-align: top; */ /* default */
+  vertical-align: middle;
+  /* vertical-align: bottom; */
+}
+
+.first {
+  height: 20px;
+}
+
+.second {
+  height: 40px;
+}
+
+.third {
+  height: 80px;
+}

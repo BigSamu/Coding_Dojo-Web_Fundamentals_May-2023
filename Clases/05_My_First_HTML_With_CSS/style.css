@@ -1,0 +1,54 @@
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+form {
+  max-width: 400px;
+}
+
+form label {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+/* -----------Attribute Selector----------- */
+
+form input[type="text"],
+form input[type="email"],
+form textarea,
+form select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+/* ------------------------------------------- */
+
+form .checkbox-group,
+form .radio-group {
+  margin-bottom: 10px;
+}
+
+/* -----------Attribute Selector----------- */
+form input[type="checkbox"],
+form input[type="radio"] {
+  display: inline;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+form input[type="submit"] {
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+/* ------------------------------------------- */

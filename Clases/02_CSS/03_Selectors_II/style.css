@@ -1,0 +1,78 @@
+/* *{
+  border: 1px dashed red;
+} */
+
+h1 {
+  color: blue;
+  font-size: 24px;
+}
+
+/* -----------Specificity----------- */
+
+.green-mid {
+  color: mediumseagreen;
+  font-size: 20px;
+  text-decoration: underline;
+}
+#red-small {
+  color: tomato;
+  font-size: 16px;
+}
+
+/* ---------------------------------- */
+
+span{
+  color: red;
+  font-size: 24px;
+}
+
+#description{
+  font-weight: bold;
+}
+
+/* -----------Descendency----------- */
+#description span{
+  color: blue;
+  font-size: 24px;
+  font-style: italic;
+}
+/* ---------------------------------- */
+
+/* -----------Direct-Descendency----------- */
+.container>p{
+  color: green;
+  font-size: 24px;
+}
+/* ----------------------------------------- */
+
+.container {
+  background-color: lightgray;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.highlighted {
+  background-color: yellow;
+}
+
+#main {
+  background-color: lightcoral;
+}
+
+#highlight-blue{
+  background-color: lightblue;
+}
+
+.with-border-and-padding {
+  border: 2px solid blue;
+  padding:5px
+}
+
+/* -----------Combination----------- */
+
+#main div.with-border-and-padding h1 span,p>span{
+  color: purple;
+}
+
+/* ---------------------------------- */

@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>My First HTML</title>
-  </head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My First HTML with CSS</title>
+    <link rel="stylesheet" href="style.css" />
 
-  <style>
-    *{
-      border:1px solid red;
-    }
-  </style>
-  
+  </head>
   <body>
     <h1>Welcome to My Website</h1>
     <hr />
@@ -18,11 +16,11 @@
     <div>
       <h2>1. Text Elements</h2>
       <p>
-        This is a <em>sample</em> website to demonstrate basic
-        <strong>structure</strong> of an HTML site
+        This is a <em>sample</em> website to demonstrate the basic
+        <strong>structure</strong> of an HTML site.
       </p>
       <p>
-        This <a href="https://www.lipsum.com/">link</a> is a wensite to get
+        This <a href="https://www.lipsum.com/">link</a> is a website to get
         random text, like the one below:
       </p>
       <p>
@@ -39,15 +37,14 @@
       <h2>Header 2</h2>
       <h3>Header 3</h3>
       <h4>Header 4</h4>
-      <h5>Header 5</h5>
-      <h6>Header 6</h6>
+      <h5>Header 6</h5>
     </div>
 
     <hr />
 
-    <!-- II) List Elements-->
+    <!-- I) Lists -->
     <div>
-      <h2>2. List Elements</h2>
+      <h2>2. Lists</h2>
       <p>Below are the list of my skills:</p>
       <ul>
         <li>Web Design</li>
@@ -64,7 +61,7 @@
 
     <hr />
 
-    <!-- III) Table Elements -->
+    <!-- III) Tables -->
     <div>
       <h2>3. Tables</h2>
       <p>This are my friends for other countries:</p>
@@ -95,38 +92,48 @@
         </tbody>
       </table>
     </div>
-
     <br />
     <hr />
 
-    <!-- IV) Images Elements -->
+    <!-- IV) Images -->
     <div>
       <h2>4. Images</h2>
-      <p>Local Image</p>
-      <img src="./coding_dojo.jpeg" alt="Coding Dojo" />
+      <p>Local Image (Folder)</p>
+      <img src="./coding_dojo.jpeg" alt="Sample Image" />
 
       <p>Image from Web</p>
       <img
         src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80"
-        alt="Developer"
+        alt="Sample Image"
         width="320"
       />
     </div>
 
-    <br />
     <hr />
-    <!-- V) Forms Elements -->
+
+    <!-- V) Forms -->
     <div>
       <h2>5. Form</h2>
       <p>You can contact me writting using this form</p>
-
       <form>
         <!-- 5.1) Text Fields -->
         <label for="name">Name:</label>
-        <input type="text" id="name" name="name" placeholder="Your name" />
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Your name"
+          required
+        />
         <br />
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" placeholder="Your email" />
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="Your email"
+          required
+        />
         <br />
         <label for="message">Message:</label>
         <textarea
@@ -134,9 +141,7 @@
           name="message"
           placeholder="Your message"
         ></textarea>
-
         <br />
-
         <!-- 5.2) Select Field-->
         <label for="country">Country:</label>
         <select id="country" name="country">
@@ -146,7 +151,6 @@
         </select>
 
         <br />
-
         <!-- 5.3) Radio and Checkbox Fields -->
         <span>Interests:</span>
         <input type="checkbox" id="int1" name="int" value="int1" />
@@ -156,7 +160,6 @@
         <input type="checkbox" id="int3" name="int" value="int3" />
         <label for="int3">Interest 3</label>
         <br />
-
         <span>Gender:</span>
         <input type="radio" id="gender1" name="gender" value="male" />
         <label for="gender1">Male</label>
@@ -164,8 +167,6 @@
         <label for="gender2">Female</label>
         <input type="radio" id="gender3" name="gender" value="other" />
         <label for="gender3">Other</label>
-
-        <br />
 
         <!-- 5.4) Submit -->
         <br />
@@ -179,6 +180,5 @@
     <div>
       <p>&copy; 2023 My Website. All rights reserved.</p>
     </div>
-
   </body>
 </html>
