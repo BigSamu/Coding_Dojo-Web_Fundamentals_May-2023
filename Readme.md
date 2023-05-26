@@ -125,12 +125,14 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 ## Class Recordings
 
 - **Lectures (Samuel)**
-  - [Lecture 01: Web and HTML](https://us06web.zoom.us/rec/share/mG_fhvp2HmQNKnC4Q1REHjQ3HRhZI54Jjf9yHszOqc0w-1fS_cippf2mv3-NfPyn.x6esUf_jg4Z40XWD) - Código de acceso: =yp5qWdV
-  - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/hcRVRy2EVu8kKWQJPJj8xP2rZR7xnQi_VVKqCDoPiFXhxlQGVrsy8GAv4v2AgG3z.Sp_NdhZ1PipC2CqC
-) - Código de acceso: Syav=?^1
+  - [Lecture 01: Web and HTML](https://us06web.zoom.us/rec/share/mG_fhvp2HmQNKnC4Q1REHjQ3HRhZI54Jjf9yHszOqc0w-1fS_cippf2mv3-NfPyn.x6esUf_jg4Z40XWD)
+  <!-- Código de acceso: =yp5qWdV -->
+  - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/hcRVRy2EVu8kKWQJPJj8xP2rZR7xnQi_VVKqCDoPiFXhxlQGVrsy8GAv4v2AgG3z.Sp_NdhZ1PipC2CqC)
+  <!-- Código de acceso: Syav=?^1 -->
 
 - **Tutorials (Jorge)**
-  - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/C04oBGYzj70TVHQxN1a8KjFcQ_4B6PVaz8I2kmwkasNhnZ4dSaoxBWaprU7ZXw.89yvuWXZnbxTefKE) - Código de acceso: FZ6QQ^Dp
+  - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/C04oBGYzj70TVHQxN1a8KjFcQ_4B6PVaz8I2kmwkasNhnZ4dSaoxBWaprU7ZXw.89yvuWXZnbxTefKE)
+  <!-- Código de acceso: FZ6QQ^Dp -->
 
 
 <!-- *********************************************************************** -->
