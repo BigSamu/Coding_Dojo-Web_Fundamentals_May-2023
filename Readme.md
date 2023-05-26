@@ -163,7 +163,7 @@ During the course, useful resources will be listed below to guidance studnets in
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
 - **CSS**
-  - [Display:Inline vs Inline-Block vs Block] (https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
+  - [Display:Inline vs Inline-Block vs Block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
