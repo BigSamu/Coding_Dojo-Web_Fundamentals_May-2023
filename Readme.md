@@ -131,6 +131,9 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
 
+<p align="right">(<a href="#back-to-top">back to top</a>)</p>
+
+---
 
 <!-- *********************************************************************** -->
 <!-- V) INSTRUCTION STAFF -->
