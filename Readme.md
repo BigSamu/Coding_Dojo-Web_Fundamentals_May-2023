@@ -88,21 +88,21 @@ Below in details all technologies that will be reviewd during this stack
 Regarding the course, the main communication channels will be Zoom and Discord as listed below:
 
 <div style="display: flex; align-items: center;">
-  <a href="https://us06web.zoom.us/j/82906790108?pwd=Y1lrSlgzWFRTY2hodGFsOEpzT3Ztdz09" target="_blank">
+  <a href="https://us06web.zoom.us/j/82906790108?pwd=Y1lrSlgzWFRTY2hodGFsOEpzT3Ztdz09" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=fff&style=flat" alt="Zoom Badge">
   </a>
   <p style="margin-left: 5px;"> For Classes and Open Code Reviews</p>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <a href="http://discord.codingdojo.com/join" target="_blank">
+  <a href="http://discord.codingdojo.com/join" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat" alt="Discord Badge">
   </a>
   <p style="margin-left: 5px;"> For Course Communication, Questions and Support</p>
 </div>
 
 <div style="display: flex; align-items: center; ">
-  <a href="https://calendly.com/instructores13/code-review-agendable-fundamentos-de-la-web?month=2023-05" target="_blank">
+  <a href="https://calendly.com/instructores13/code-review-agendable-fundamentos-de-la-web?month=2023-05" target="_blank" rel="noopener noreferrer">
     <img src="https://www.copilot.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fl41zuz9np7js%2F4Y2zP2a3WzSMi8ACUIrVVS%2Faa010a2c1bcc212ce292656ea2b5b647%2Fcal.png&w=640&q=75" alt="Calendly Badge" height="16" style = "background-color:white; padding:2px;border-radius: 3px;">
   </a>
   <p style="margin-left: 5px;">Scheduled Code Reviews ("Code Reviews Agendables")</p>
