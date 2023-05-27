@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>Registro</h1>
+
+    <form action="">
+        <div>
+            <label for="input_first_lastname">Apellido Paterno:</label>
+            <input type="text" id="input_first_lastname">
+        </div>
+
+        <div>
+            <label for="input_name">Nombres:</label>
+            <input type="text" id="input_name">
+        </div>
+
+        <div>
+            <label for="input_email"> Email :</label>
+            <input type="email" id="input_email">
+        </div>
+
+        <div>
+            <label for="input_password">Password:</label>
+            <input type="password" id="input_password">
+        </div>
+
+        <div>
+            <label for="input_password2">Repetir Password:</label>
+            <input type="password" id="input_password2">
+        </div>
+
+        <div>
+            <label for="input_birthdate">Fecha de nac.</label>
+            <input type="date" id="input_birthdate">
+        </div>
+
+        <div>
+            <label>Genero</label>
+            <div>
+                <input type="radio" name="gender" value="male" id="male_option">
+                <label for="male_option">Masculino</label>
+            </div>
+            <div>
+                <input type="radio" name="gender" value="female" id="option_female" >
+                <label for="option_female">Femenino</label>
+            </div>
+            <div>
+                <input type="radio" name="gender" value="other" id="option_other" >
+                <label for="option_other">Otro</label>
+            </div>
+            <div>
+                <input type="radio" name="gender" value="n/a" id="option_n/a" >
+                <label for="option_n/a">No contesto</label>
+            </div>
+        </div>
+
+        <div>
+            <label for="input_desc">Description</label>
+            <div>
+                <textarea name="" id="input_desc" cols="60" rows="10"></textarea>
+            </div>
+        </div>
+
+        <div>
+            <label for="input_fav_lang">Lang. fav.</label>
+            <select name="" id="input_fav_lang">
+                <option value="swift"> Swift</option>
+                <option value="js">JavaScript</option>
+                <option value="py">Python</option>
+                <option value="html">HTML</option>
+                <option value="css">CSS</option>
+                <option value="go">GO</option>
+            </select>
+        </div>
+
+        <div>
+            <input type="checkbox" name="ac" id="ac">
+            <label for="ac">Acepta T&C</label>
+        </div>
+
+        <input type="submit" value="Este es el texto del botón">
+        <button>Esta es otra forma de hacer el botón</button>
+
+
+    </form>
+    
+</body>
+</html>
