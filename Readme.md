@@ -130,6 +130,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
+  - [Tutorial 02: Git, Terminal & HTML Intro](https://us06web.zoom.us/rec/share/5PP3xBe8f08CLB4C13HXHtP66xpju_7NJcPcrY-c8Vh_lU_IIApEBgJOgApcyj2E.z3pKB9evr_3rV2Qa?pwd=r7uyIBSEylooKR5irL_waSlWfUZo8TPn)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
