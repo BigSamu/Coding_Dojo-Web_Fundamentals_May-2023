@@ -8,7 +8,7 @@
 ## Conceptos
 - Archivos y cambios: Como ve git los cambios de nuestros archivos y como a partir de estos armarmos un commit.
 
-![Estados de los cambios/archivos en reposirotio](/Coding_Dojo-Web_Fundamentals_May-2023/Ayudantias/00_GitHub_and_Terminal/git_diag.png)
+![Estados de los cambios/archivos en reposirotio](git_diag.png)
 
 - Diagnosticos de problemas utilizando nuevos comandos.
 ```
