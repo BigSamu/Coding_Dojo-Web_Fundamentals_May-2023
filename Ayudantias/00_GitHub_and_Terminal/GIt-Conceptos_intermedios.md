@@ -12,7 +12,7 @@
 
 - Diagnosticos de problemas utilizando nuevos comandos.
 ```
-git remote -v ~> Lista todos los repositorios en la nuve en donde se pueden subir nuestro repositorio local.
+git remote -v ~> Lista todos los repositorios en la nube en donde se pueden subir nuestro repositorio local.
 git rm -r --cached <PATH/FILE> ~> Nos permite llevar un archivo desde la zona tracked a untracked. Se necesita hacer un commit de este cambio 
 ```
 - Entender la importancia de la carpeta ```.git``` dentro de un repositorio.
