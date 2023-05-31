@@ -170,11 +170,12 @@ During the course, useful resources will be listed below to guidance studnets in
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
 - **HTML**
-- [HTML Validator](https://validator.w3.org/)
+  - [HTML Validator](https://validator.w3.org/)
 
 - **CSS**
   - [Display:Inline vs Inline-Block vs Block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks)
+  - [Flex Froggy: Learn to use CSS Flex](https://flexboxfroggy.com/)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
