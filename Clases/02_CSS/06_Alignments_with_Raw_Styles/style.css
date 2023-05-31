@@ -1,0 +1,46 @@
+* {
+  outline: black 1px solid;
+}
+
+.container {
+  padding: 25px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  margin: 0px
+}
+
+.block{
+  margin:10px 20px;
+  padding: 10px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+}
+
+.sub-block {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.blue {
+  background-color: blue;
+  width: 80px;
+  height: 80px;
+}
+
+.green {
+  background-color: green;
+  width: 60px;
+  height: 60px;
+}

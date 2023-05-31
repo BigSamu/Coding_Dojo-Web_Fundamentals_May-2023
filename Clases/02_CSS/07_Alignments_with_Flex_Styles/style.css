@@ -1,0 +1,45 @@
+* {
+  outline: red 1px solid;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container{
+  padding: 25px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+p{
+  color: white;
+  width: 60px;
+  text-align: center;
+}
+
+.block{
+  margin:10px 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.blue {
+  background-color: blue;
+  width: 80px;
+  height: 80px;
+}
+
+.green {
+  background-color: green;
+  width: 60px;
+  height: 60px;
+}
