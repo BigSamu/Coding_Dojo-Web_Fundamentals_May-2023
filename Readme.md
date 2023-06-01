@@ -127,6 +127,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 - **Lectures (Samuel)**
   - [Lecture 01: Web and HTML](https://us06web.zoom.us/rec/share/QgLLHgpMggtgiBmyyv6Xw7sYpc9swEFU50ddwnklJuerFzkdPTI4zcKHsxTsJavk.WoHV7aJUzQcqw7Al?pwd=tLaSUzvHnNK-EQkqo8FT4Tmnx7K1dj9B)
   - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/XXNBR77H0UFXr1fevCK3V1kWNW35xww_C0x9C_wwfA_FIFwyyojn4m9Z4sIuZa_E.vLjad-zgRvPB13eZ?pwd=YwAc_P1xFoVDeYG3Sh_sstJs7Tiv3awF)
+  - [Lecture 03: CCS Flex, Layout, Position and Overflow](https://us06web.zoom.us/rec/share/ZOm4JzfPXSZ7mWzv0DSdSzyiwh78VoaeMSWJYGsyZV9VsDPte1d4m6okeYyu14ZT.IkXnIzkh9YVRsX8-?pwd=s7_k5E4rsWfuUmD4Ke4KCBQ_naYBEcQ5)
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
@@ -162,13 +163,19 @@ During the course, useful resources will be listed below to guidance studnets in
   - [Medium](https://medium.com/) (Recommended 🚀 - USD 5,00 per month)
   - [Dev.to](https://dev.to/)
   - [W3Schools](https://www.w3schools.com/)
+  - [CSS Tricks](https://css-tricks.com/)
 
 - **Git and Terminal**
   - [Git Tutorial](https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256)
   - [Terminal for Beginners](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a)
 
+- **HTML**
+  - [HTML Validator](https://validator.w3.org/)
+
 - **CSS**
   - [Display:Inline vs Inline-Block vs Block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
+  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks)
+  - [Flex Froggy: Learn to use CSS Flex](https://flexboxfroggy.com/)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>

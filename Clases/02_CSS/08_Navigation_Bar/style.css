@@ -1,0 +1,62 @@
+/* 0) GENERAL STYLES */
+* {
+  outline: red 1px dotted;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+/* 1) NAVIGATION BAR */
+.container{
+  padding: 0px 2%;
+  display:flex;
+  height: 70px;
+  background-color: black;
+}
+
+#nav-menu{
+  display: flex;
+  flex-grow: 1;
+}
+
+#nav-page-logo{
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+#nav-list{
+  margin: 0px 10px;
+  /* height:100%; */
+  color: white;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.nav-link {
+  margin: 0px 10px;
+
+}
+
+#nav-buttons {
+  display: flex;
+  align-items: center;
+  /* flex-grow:1;
+  justify-content: end; */
+}
+
+.btn {
+  margin: 10px;
+  padding: 5px 10px;
+  background-color: #17a2b8;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  font-size: 16px;
+}
