@@ -14,7 +14,7 @@
     width: 200px;
     background-color: blue;
     display: inline-block;
-    /* vertical-align: top; */
+    vertical-align: top;
     margin-right: 16px;
 }
 .main {
