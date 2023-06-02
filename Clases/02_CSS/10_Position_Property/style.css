@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  /* box-sizing: border-box;
+  outline: 1px red solid; */
+}
+
+.image-container {
+  position: relative;
+  height: 100vh;
+  /* padding: 50px; */
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+}
+
+.caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 5em;
+  text-align: center;
+}
