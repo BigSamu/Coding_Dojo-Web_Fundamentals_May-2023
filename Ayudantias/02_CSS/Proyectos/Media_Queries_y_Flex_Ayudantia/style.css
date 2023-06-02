@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Lucida Sans", sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+[class*="col-"] { /* This is a CSS attribute selector. It selects all elements with a class attribute value that begins with 'col-'. */
+  padding: 15px;
+  width: 100%;
+  /* flex: 0 0 100%; */ /* This is the same as the above line */
+}
+
+.header {
+  background-color: #9933cc;
+  color: #ffffff;
+  padding: 15px;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  padding: 8px;
+  margin-bottom: 7px;
+  background-color: #33b5e5;
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.menu li:hover { /* In CSS ':hover' is a pseudo-class (same for :active, :focus, :visited, etc)*/
+  background-color: #0099cc;
+}
+
+.aside {
+  background-color: #33b5e5;
+  padding: 15px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.footer {
+  background-color: #0099cc;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  padding: 15px;
+}
+
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {flex: 0 0 8.33%;}
+  .col-2 {flex: 0 0 16.66%;}
+  .col-3 {flex: 0 0 25%;}
+  .col-4 {flex: 0 0 33.33%;}
+  .col-5 {flex: 0 0 41.66%;}
+  .col-6 {flex: 0 0 50%;}
+  .col-7 {flex: 0 0 58.33%;}
+  .col-8 {flex: 0 0 66.66%;}
+  .col-9 {flex: 0 0 75%;}
+  .col-10 {flex: 0 0 83.33%;}
+  .col-11 {flex: 0 0 91.66%;}
+  .col-12 {flex: 0 0 100%;}
+}
