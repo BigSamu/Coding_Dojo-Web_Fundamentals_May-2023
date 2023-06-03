@@ -128,11 +128,13 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Lecture 01: Web and HTML](https://us06web.zoom.us/rec/share/QgLLHgpMggtgiBmyyv6Xw7sYpc9swEFU50ddwnklJuerFzkdPTI4zcKHsxTsJavk.WoHV7aJUzQcqw7Al?pwd=tLaSUzvHnNK-EQkqo8FT4Tmnx7K1dj9B)
   - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/XXNBR77H0UFXr1fevCK3V1kWNW35xww_C0x9C_wwfA_FIFwyyojn4m9Z4sIuZa_E.vLjad-zgRvPB13eZ?pwd=YwAc_P1xFoVDeYG3Sh_sstJs7Tiv3awF)
   - [Lecture 03: CCS Flex, Layout, Position and Overflow](https://us06web.zoom.us/rec/share/ZOm4JzfPXSZ7mWzv0DSdSzyiwh78VoaeMSWJYGsyZV9VsDPte1d4m6okeYyu14ZT.IkXnIzkh9YVRsX8-?pwd=s7_k5E4rsWfuUmD4Ke4KCBQ_naYBEcQ5)
+  - [Lecture 04: CCS Position, Media Queries and Pseudo-classes & JS Basics](https://us06web.zoom.us/rec/share/t5bOpvGprwg75sGmiUcsIKJ-Dnv7fDOWCBqosEXDAn0Vo0g5K4DUFb_I49kJkswl.vnwSaRwP3Y8cqvIX?pwd=Wmu9-Q9kkpnYy1xTM39K_5sldONTC3W_)
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
   - [Tutorial 02: Git, Terminal & HTML Intro](https://us06web.zoom.us/rec/share/5PP3xBe8f08CLB4C13HXHtP66xpju_7NJcPcrY-c8Vh_lU_IIApEBgJOgApcyj2E.z3pKB9evr_3rV2Qa?pwd=r7uyIBSEylooKR5irL_waSlWfUZo8TPn)
-  - [Tutorioal 03: Git, HTML & CSS Intro](https://us06web.zoom.us/rec/share/VdwABdOZo7bcheIcXkxKaRSNrFdIMyr9TkaNpLc_oLfpQy_007enUr5iIFUihV-G.X8ESEa_-4F3U6oE5?startTime=1685401632000&pwd=PKSd0C05QJQFjcQwWjyev9LbpfmP2xRj)
+  - [Tutorial 03: Git, HTML & CSS Intro](https://us06web.zoom.us/rec/share/VdwABdOZo7bcheIcXkxKaRSNrFdIMyr9TkaNpLc_oLfpQy_007enUr5iIFUihV-G.X8ESEa_-4F3U6oE5?startTime=1685401632000&pwd=PKSd0C05QJQFjcQwWjyev9LbpfmP2xRj)
+- [Tutorial 04: Git, CSS Display Block, inline, inline-block e intro a flex](https://us06web.zoom.us/rec/share/-kc0hX5mPLC9n34u9CoTZX7VBBRGxT7CEWDxqYIZ9LwfL26s7X9KGTcbHtU9LaE_.7j_SlV4iP0COp58b?pwd=1FSRw7PPDno79Y-kp4RetyAsnvO94fRH)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
@@ -176,6 +178,9 @@ During the course, useful resources will be listed below to guidance studnets in
   - [Display:Inline vs Inline-Block vs Block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks)
   - [Flex Froggy: Learn to use CSS Flex](https://flexboxfroggy.com/)
+
+- **JS**
+  - [Javascript Playground](https://playcode.io/empty_javascript)
 
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>

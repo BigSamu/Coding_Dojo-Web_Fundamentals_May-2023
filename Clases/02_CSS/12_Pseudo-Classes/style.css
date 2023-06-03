@@ -1,0 +1,11 @@
+a.with-pseudoclass:hover {
+  color: red;
+}
+
+button.with-pseudoclass:active {
+  background-color: green;
+}
+
+input.with-pseudoclass:focus {
+  background-color:yellow
+}
