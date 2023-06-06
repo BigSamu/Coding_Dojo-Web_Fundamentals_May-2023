@@ -136,6 +136,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Tutorial 03: Git, HTML & CSS Intro](https://us06web.zoom.us/rec/share/VdwABdOZo7bcheIcXkxKaRSNrFdIMyr9TkaNpLc_oLfpQy_007enUr5iIFUihV-G.X8ESEa_-4F3U6oE5?startTime=1685401632000&pwd=PKSd0C05QJQFjcQwWjyev9LbpfmP2xRj)
   - [Tutorial 04: Git, CSS Display Block, inline, inline-block e intro a flex](https://us06web.zoom.us/rec/share/-kc0hX5mPLC9n34u9CoTZX7VBBRGxT7CEWDxqYIZ9LwfL26s7X9KGTcbHtU9LaE_.7j_SlV4iP0COp58b?pwd=1FSRw7PPDno79Y-kp4RetyAsnvO94fRH)
   - [Tutorial 05: Flex y Media queries](https://us06web.zoom.us/rec/share/dZFQFf08B68p7OjOUMpaE3Xtu2zVsvXOAN0--mzlTfyfR29tcdWF1aqFGTQVz-g.O3ckobl8vbjTf5Ar?pwd=ToVkUchbEGKLEhRWv-F26pGqjPHppUDt)
+  - [Tutorial 06: Examen Pt 1](https://us06web.zoom.us/rec/share/4oeaDiIANIn_80lsm3o8c42hzX-zSkix2CH8fdV-ZXsoSDjs1Y7Tw-9f6ZfpAomm.Ln-Rj1V_JsxNcXLP?pwd=bbWgLkGbrVc9zqMYYlsKpX1tMC2yrHnu)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
