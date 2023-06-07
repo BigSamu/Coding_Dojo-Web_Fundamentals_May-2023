@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div {
+    display: inline-block;
+    margin: 10px;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: black;
+    margin: 0px;
+}
+
+.menu > div {
+    height: 200px;
+}
+
+.menu-1 {
+    background-color: aqua;
+    flex-basis: 350px;
+    flex-grow: 5;
+}
+
+.menu-2 {
+    background-color: red;
+    flex-basis: 30px;
+    flex-grow: 1;
+}
+
+.menu-3 {
+    background-color: green;
+    flex-basis: 30px;
+    flex-grow: 1;
+}
+
+.min-768{
+    display: none;
+}
+
+.max-768{
+    display: inherit;
+}
+
+
+@media only screen and (min-width: 768px) {
+
+    .min-768{
+        display: flex;
+        max-width: 700px;
+        flex-basis: 300px;
+        flex-grow: 1;
+    }
+
+    .max-768{
+        display: none;
+    }
+
+    .max-768 > div {
+        max-width: 100px;
+        flex-grow: 1;
+    }
+
+    .menu-1 {
+        max-width: 500px;
+        flex-grow: 1;
+    }
+
+    .menu {
+        justify-content: space-between;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    .menu-1 {
+        flex-basis: 280px;
+        flex-grow: 3;
+        /* flex-shrink: 3; */
+    }
+    
+    .menu-2 {
+        flex-basis: 130px;
+        flex-grow: 2;
+        /* flex-shrink: 2; */
+        
+    }
+    
+    .menu-3 {
+        flex-basis: 161px;
+        flex-grow: 1;
+        /* flex-shrink: 1; */
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .menu-1 {
+        background-color: aqua;
+        flex-basis: 400px;
+        flex-grow: 3;
+        /* flex-shrink: 3; */
+    }
+    
+    .menu-2 {
+        background-color: red;
+        flex-basis: 200px;
+        flex-grow: 2;
+        /* flex-shrink: 2; */
+        
+    }
+    
+}
+
+
+
+
