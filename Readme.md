@@ -129,6 +129,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/XXNBR77H0UFXr1fevCK3V1kWNW35xww_C0x9C_wwfA_FIFwyyojn4m9Z4sIuZa_E.vLjad-zgRvPB13eZ?pwd=YwAc_P1xFoVDeYG3Sh_sstJs7Tiv3awF)
   - [Lecture 03: CCS Flex, Layout, Position and Overflow](https://us06web.zoom.us/rec/share/ZOm4JzfPXSZ7mWzv0DSdSzyiwh78VoaeMSWJYGsyZV9VsDPte1d4m6okeYyu14ZT.IkXnIzkh9YVRsX8-?pwd=s7_k5E4rsWfuUmD4Ke4KCBQ_naYBEcQ5)
   - [Lecture 04: CCS Position, Media Queries and Pseudo-classes & JS Basics](https://us06web.zoom.us/rec/share/t5bOpvGprwg75sGmiUcsIKJ-Dnv7fDOWCBqosEXDAn0Vo0g5K4DUFb_I49kJkswl.vnwSaRwP3Y8cqvIX?pwd=Wmu9-Q9kkpnYy1xTM39K_5sldONTC3W_)
+  - [Lecture 05: JS Basics & DOM Manipulation](https://us06web.zoom.us/rec/share/SZ3SwQQUt06WYVQuBwsxINNpljAhV6MgiKj1np7uWDY2ALgr3-JXLx2Sc6Qn3nef.NmDebto85Vq8tIG2?pwd=4gXiEXE4bXSrC0AKXPvi8TQFBmzA5IPm)
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
