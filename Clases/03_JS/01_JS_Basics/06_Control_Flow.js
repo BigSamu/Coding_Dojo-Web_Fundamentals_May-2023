@@ -91,8 +91,37 @@ else{
 
 // IV) Ternary Operator
 console.log("----------------------");
+var isRaining = true;
+var accessory = (isRaining ? "umbrella" : "sunglasses");
+console.log(accessory);
+
+var age = 14;
+var canVoteMessage = (age >= 18 ? "You can vote" : "You can't vote");
+console.log(canVoteMessage);
 
 
+var isRainingNextDay = true;
+var accessoryNextDay;
+if(isRainingNextDay) {
+  accessoryNextDay = "umbrella";
+} else {
+  accessoryNextDay = "sunglasses";
+}
+console.log(accessoryNextDay);
 
 // V) Switch Statement
 console.log("----------------------");
+let fruit = "banana";
+switch (fruit) {
+  case "apple":
+    console.log("Selected fruit: apple");
+    break;
+  case "banana":
+    console.log("Selected fruit: banana");
+    break;
+  case "orange":
+    console.log("Selected fruit: orange");
+    break;
+  default:
+    console.log("Unknown fruit");
+}

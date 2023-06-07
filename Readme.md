@@ -158,7 +158,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 ## Resources
 
-During the course, useful resources will be listed below to guidance studnets in their learning process
+During the course, useful resources will be listed below for guiding students in their learning process
 
 - **Blogs and Websites**
   - [Medium](https://medium.com/) (Recommended 🚀 - USD 5,00 per month)
