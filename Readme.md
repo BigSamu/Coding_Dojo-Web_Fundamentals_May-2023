@@ -185,6 +185,8 @@ During the course, useful resources will be listed below for guiding students in
 - **JS**
   - [Javascript Playground](https://playcode.io/empty_javascript)
 
+- **ChatGPT**
+  - [ChatGPT](https://openai.com/blog/chatgpt)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
