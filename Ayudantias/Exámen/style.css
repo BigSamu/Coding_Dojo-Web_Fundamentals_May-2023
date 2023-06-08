@@ -69,3 +69,109 @@
     transform: skew(20deg);
 }
 
+
+/* Main content */
+
+.main-content{
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: center;
+    padding: 20px 180px;
+}
+
+.side-bar {
+    flex-grow: 1;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.side-bar > div {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    align-items: center;
+    background-color: white;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.stories-section {
+
+}
+
+.login-section {
+   
+}
+
+.suscribe-section{
+   
+}
+
+.scoreboard {
+    flex-grow: 2;
+    background-color: white;
+}
+
+.score-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+    align-content: center;
+}
+
+.score-header-left {
+    display: flex ;
+    align-content: center;
+}
+
+.score-header-left span {
+    line-height: 30px;
+}
+
+.red-dot {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+#live-label {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#teams-label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.score-main {
+    display: flex;
+}
+
+.score-main > * {
+    width: 33%;
+}
+
+.team-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.score-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20%;
+}
+
+.team-img {
+    width: 100%;
+}
