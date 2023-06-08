@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- 0.1) Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- 0.2) Title Tags -->
+    <title>JS Events</title>
+    <!-- 0.3) Link and script Tags -->
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <h1>JS Events</h1>
+    <h2> 1. Click Event</h2>
+    <button onclick="handleClick()">Click Me</button>
+
+    <h2> 2. Change Event </h2>
+    <input type="text" onchange="handleChange()" />
+
+    <h2> 3. Mouse Evenets</h2>
+    <button onmouseover="handleMouseOver()">Mouse Over</button>
+    <button onmouseout="handleMouseOut()">Mouse Out</button>
+
+    <h2> 4. Keyboard Events </h2>
+    <input type="text" onkeydown="handleKeyDown()" />
+    <input type="text" onkeyup="handleKeyUp()" />
+    <input type="text" onkeypress="handleKeyPress()" />
+
+    <h2> 5. Form Events </h2>
+    <form onsubmit="handleSubmit(event)">
+      <input type="text" />
+      <input type="submit" />
+    </form>
+
+    <h2> 6. Window Events </h2>
+    <button onclick="openWindow()">Open Window</button>
+    <button onclick="closeWindow()">Close Window</button>
+
+  </body>
+</html>

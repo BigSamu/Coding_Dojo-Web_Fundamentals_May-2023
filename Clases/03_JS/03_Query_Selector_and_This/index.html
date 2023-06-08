@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- 0.1) Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- 0.2) Title Tags -->
+    <title>Document</title>
+    <!-- 0.3) Link and script Tags -->
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <p id="first_paragraph">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+      </p>
+      <p id="second_paragraph">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+      </p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+    </div>
+    <input type="color" name="color" id="inputColor" onchange="getColor()" />
+    <button id="button" onclick="changeTextOne('first_paragraph')">
+      Click to Change
+    </button>
+    <button id="button" onclick="changeTextOne('second_paragraph')">
+      Click to Change
+    </button>
+    <button id="button" onclick="changeTextTwo(this)">
+      Click to Change
+    </button>
+  </body>
+</html>

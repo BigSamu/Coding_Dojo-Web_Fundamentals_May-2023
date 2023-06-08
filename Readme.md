@@ -129,6 +129,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Lecture 02: CSS Box Model and Selectors](https://us06web.zoom.us/rec/share/XXNBR77H0UFXr1fevCK3V1kWNW35xww_C0x9C_wwfA_FIFwyyojn4m9Z4sIuZa_E.vLjad-zgRvPB13eZ?pwd=YwAc_P1xFoVDeYG3Sh_sstJs7Tiv3awF)
   - [Lecture 03: CCS Flex, Layout, Position and Overflow](https://us06web.zoom.us/rec/share/ZOm4JzfPXSZ7mWzv0DSdSzyiwh78VoaeMSWJYGsyZV9VsDPte1d4m6okeYyu14ZT.IkXnIzkh9YVRsX8-?pwd=s7_k5E4rsWfuUmD4Ke4KCBQ_naYBEcQ5)
   - [Lecture 04: CCS Position, Media Queries and Pseudo-classes & JS Basics](https://us06web.zoom.us/rec/share/t5bOpvGprwg75sGmiUcsIKJ-Dnv7fDOWCBqosEXDAn0Vo0g5K4DUFb_I49kJkswl.vnwSaRwP3Y8cqvIX?pwd=Wmu9-Q9kkpnYy1xTM39K_5sldONTC3W_)
+  - [Lecture 05: JS Basics & DOM Manipulation](https://us06web.zoom.us/rec/share/SZ3SwQQUt06WYVQuBwsxINNpljAhV6MgiKj1np7uWDY2ALgr3-JXLx2Sc6Qn3nef.NmDebto85Vq8tIG2?pwd=4gXiEXE4bXSrC0AKXPvi8TQFBmzA5IPm)
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
@@ -136,6 +137,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Tutorial 03: Git, HTML & CSS Intro](https://us06web.zoom.us/rec/share/VdwABdOZo7bcheIcXkxKaRSNrFdIMyr9TkaNpLc_oLfpQy_007enUr5iIFUihV-G.X8ESEa_-4F3U6oE5?startTime=1685401632000&pwd=PKSd0C05QJQFjcQwWjyev9LbpfmP2xRj)
   - [Tutorial 04: Git, CSS Display Block, inline, inline-block e intro a flex](https://us06web.zoom.us/rec/share/-kc0hX5mPLC9n34u9CoTZX7VBBRGxT7CEWDxqYIZ9LwfL26s7X9KGTcbHtU9LaE_.7j_SlV4iP0COp58b?pwd=1FSRw7PPDno79Y-kp4RetyAsnvO94fRH)
   - [Tutorial 05: Flex y Media queries](https://us06web.zoom.us/rec/share/dZFQFf08B68p7OjOUMpaE3Xtu2zVsvXOAN0--mzlTfyfR29tcdWF1aqFGTQVz-g.O3ckobl8vbjTf5Ar?pwd=ToVkUchbEGKLEhRWv-F26pGqjPHppUDt)
+  - [Tutorial 06: Examen Pt 1](https://us06web.zoom.us/rec/share/4oeaDiIANIn_80lsm3o8c42hzX-zSkix2CH8fdV-ZXsoSDjs1Y7Tw-9f6ZfpAomm.Ln-Rj1V_JsxNcXLP?pwd=bbWgLkGbrVc9zqMYYlsKpX1tMC2yrHnu)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
@@ -160,7 +162,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 ## Resources
 
-During the course, useful resources will be listed below to guidance studnets in their learning process
+During the course, useful resources will be listed below for guiding students in their learning process
 
 - **Blogs and Websites**
   - [Medium](https://medium.com/) (Recommended 🚀 - USD 5,00 per month)
@@ -183,6 +185,8 @@ During the course, useful resources will be listed below to guidance studnets in
 - **JS**
   - [Javascript Playground](https://playcode.io/empty_javascript)
 
+- **ChatGPT**
+  - [ChatGPT](https://openai.com/blog/chatgpt)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
