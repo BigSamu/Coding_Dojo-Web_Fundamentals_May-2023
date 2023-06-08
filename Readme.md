@@ -138,6 +138,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Tutorial 04: Git, CSS Display Block, inline, inline-block e intro a flex](https://us06web.zoom.us/rec/share/-kc0hX5mPLC9n34u9CoTZX7VBBRGxT7CEWDxqYIZ9LwfL26s7X9KGTcbHtU9LaE_.7j_SlV4iP0COp58b?pwd=1FSRw7PPDno79Y-kp4RetyAsnvO94fRH)
   - [Tutorial 05: Flex y Media queries](https://us06web.zoom.us/rec/share/dZFQFf08B68p7OjOUMpaE3Xtu2zVsvXOAN0--mzlTfyfR29tcdWF1aqFGTQVz-g.O3ckobl8vbjTf5Ar?pwd=ToVkUchbEGKLEhRWv-F26pGqjPHppUDt)
   - [Tutorial 06: Examen Pt 1](https://us06web.zoom.us/rec/share/4oeaDiIANIn_80lsm3o8c42hzX-zSkix2CH8fdV-ZXsoSDjs1Y7Tw-9f6ZfpAomm.Ln-Rj1V_JsxNcXLP?pwd=bbWgLkGbrVc9zqMYYlsKpX1tMC2yrHnu)
+  - [Tutorial 07: Examen Pt 2](https://us06web.zoom.us/rec/share/WicIbgiuciGAlelYtSp_YQEdMQr6xpmXTw45NVFx5gDFeggUF_biSUo5fGI4v30T.ihI7_2bCWsie0WdQ?pwd=ymr5YkadOwlcLaV2tuM7i6GNLFB_XAMR)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
