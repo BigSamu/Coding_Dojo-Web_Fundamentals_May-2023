@@ -1,0 +1,77 @@
+
+*{
+  /* outline: 1px solid red; */
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#carousel-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 600px;
+  height: 300px;
+}
+
+#carousel {
+  /* position: relative; */
+  width: 450px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.carousel-image {
+  display: none;
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-image.active {
+  display: block;
+}
+
+.carousel-control {
+  font-size: 2em;
+  margin: 0px 10px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  transition: background-color 0.3s;
+}
+
+.carousel-control:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+#indicator-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.indicator {
+  width: 20px;
+  height: 20px;
+  background-color: gray;
+  margin: 0 5px;
+  border-radius: 50%;
+  cursor: pointer; /* Adds hand cursor on hover */
+  transition: background-color 0.3s; /* Adds smooth color transition on hover */
+}
+
+.indicator.active {
+  background-color: orange;
+}
+
+
+.indicator:not(.active):hover {
+  background-color: rgba(255, 165, 0, 0.5);
+}
