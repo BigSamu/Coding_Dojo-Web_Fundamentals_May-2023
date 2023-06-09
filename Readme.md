@@ -183,6 +183,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Display:Inline vs Inline-Block vs Block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks)
   - [Flex Froggy: Learn to use CSS Flex](https://flexboxfroggy.com/)
+  - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
 
 - **JS**
   - [Javascript Playground](https://playcode.io/empty_javascript)
