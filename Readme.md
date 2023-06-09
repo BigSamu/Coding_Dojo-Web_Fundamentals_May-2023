@@ -151,7 +151,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 ## Instruction Staff
 
-- _Lead Instructor:_ Samuel Valdes Gutierrez [valdesgutierrez@gmil.com](mailto:sgutierrez@codingdojo.com)
+- _Lead Instructor:_ Samuel Valdes Gutierrez [sgutierrez@codingdojo.com](mailto:sgutierrez@codingdojo.com)
 - _Support Instructor:_ Jorge Gutierrez [jgutierrez@codingdojo.cl](mailto:jgutierrez@codingdojo.cl)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
