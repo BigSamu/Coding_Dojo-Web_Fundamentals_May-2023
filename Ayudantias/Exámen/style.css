@@ -77,6 +77,8 @@
     display: flex;
     justify-content: center;
     padding: 20px 180px;
+    align-items: flex-start ;
+    min-height: 100vh;
 }
 
 .side-bar {
@@ -87,37 +89,80 @@
     gap: 20px;
 }
 
+hr {
+    width: 100%;
+}
+
 .side-bar > div {
     display: flex;
     flex-direction: column;
     gap: 14px;
     align-items: center;
     background-color: white;
-    padding: 12px;
+    padding: 32px 30px;
     border-radius: 8px;
 }
 
-.stories-section {
-
+#stories-section {
+    align-items: start;
+    
+    gap: 16px
 }
 
-.login-section {
-   
+#stories-section > a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
 }
 
-.suscribe-section{
-   
+.login-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px
+}
+
+#login-section {
+    padding: 20px 12px;
+}
+
+.login-buttons > button {
+    width: 100px;
+    height: 35px;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+}
+
+#sign-in-button{
+    color: white;
+    background-color: dodgerblue;
+}
+
+#sign-out-button{
+    color: black;
+    background-color: white;
+}
+
+
+#suscribe-button {
+    color: black;
+    background-color: wheat;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+    width: 150px;
+    height: 35px;
+
 }
 
 .scoreboard {
     flex-grow: 2;
     background-color: white;
+    padding: 22px 24px;
+    border-radius: 10px;
 }
 
 .score-header {
     display: flex;
     justify-content: space-between;
-    padding: 5px 20px;
     align-content: center;
 }
 
@@ -140,12 +185,13 @@
 
 #live-label {
     color: red;
-    font-size: 20px;
+    font-size: 42px;
     font-weight: bold;
+    margin-left: 14px;
 }
 
 #teams-label {
-    font-size: 20px;
+    font-size: 42px;
     font-weight: bold;
 }
 
@@ -157,21 +203,66 @@
     width: 33%;
 }
 
-.team-section{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px 20px;
-}
-
 .score-data {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20%;
+    gap: 100px;
+}
+
+.score-data > span {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.score-data > p {
+    text-align: center;
+}
+
+.team-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14px 24px;
+    gap: 8px;
 }
 
 .team-img {
-    width: 100%;
+    width: 65%;
 }
+
+.city-text {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+
+.team-text {
+    font-size: 32px;
+    font-weight: bold;
+    color: darkcyan;
+}
+
+.crimson {
+    color: crimson;
+}
+
+.game-balance-text {
+    font-size: 12px;
+    color: lightgray;
+    font-weight: 700;
+}
+
+
+.score-text {
+    font-size: 42px;
+}
+
+.score-footer p {
+    padding: 10px 10px;
+    font-size: 16px;
+}
+
+
+
