@@ -130,6 +130,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Lecture 03: CCS Flex, Layout, Position and Overflow](https://us06web.zoom.us/rec/share/ZOm4JzfPXSZ7mWzv0DSdSzyiwh78VoaeMSWJYGsyZV9VsDPte1d4m6okeYyu14ZT.IkXnIzkh9YVRsX8-?pwd=s7_k5E4rsWfuUmD4Ke4KCBQ_naYBEcQ5)
   - [Lecture 04: CCS Position, Media Queries and Pseudo-classes & JS Basics](https://us06web.zoom.us/rec/share/t5bOpvGprwg75sGmiUcsIKJ-Dnv7fDOWCBqosEXDAn0Vo0g5K4DUFb_I49kJkswl.vnwSaRwP3Y8cqvIX?pwd=Wmu9-Q9kkpnYy1xTM39K_5sldONTC3W_)
   - [Lecture 05: JS Basics & DOM Manipulation](https://us06web.zoom.us/rec/share/SZ3SwQQUt06WYVQuBwsxINNpljAhV6MgiKj1np7uWDY2ALgr3-JXLx2Sc6Qn3nef.NmDebto85Vq8tIG2?pwd=4gXiEXE4bXSrC0AKXPvi8TQFBmzA5IPm)
+  - [Lecture 06: DOM Manipulation II](https://us06web.zoom.us/rec/share/gUAiemH1mhFriPgVBk2uB2WvTAJZSX7Pb_6cATsuWF8KKwp2Xjragsg59w-D2zKc.o62WxhLkh36x8gOR?pwd=M8Mzs5cdaXHPu5v0rjoQONI1RMqr45Tk)
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
@@ -138,6 +139,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Tutorial 04: Git, CSS Display Block, inline, inline-block e intro a flex](https://us06web.zoom.us/rec/share/-kc0hX5mPLC9n34u9CoTZX7VBBRGxT7CEWDxqYIZ9LwfL26s7X9KGTcbHtU9LaE_.7j_SlV4iP0COp58b?pwd=1FSRw7PPDno79Y-kp4RetyAsnvO94fRH)
   - [Tutorial 05: Flex y Media queries](https://us06web.zoom.us/rec/share/dZFQFf08B68p7OjOUMpaE3Xtu2zVsvXOAN0--mzlTfyfR29tcdWF1aqFGTQVz-g.O3ckobl8vbjTf5Ar?pwd=ToVkUchbEGKLEhRWv-F26pGqjPHppUDt)
   - [Tutorial 06: Examen Pt 1](https://us06web.zoom.us/rec/share/4oeaDiIANIn_80lsm3o8c42hzX-zSkix2CH8fdV-ZXsoSDjs1Y7Tw-9f6ZfpAomm.Ln-Rj1V_JsxNcXLP?pwd=bbWgLkGbrVc9zqMYYlsKpX1tMC2yrHnu)
+  - [Tutorial 07: Examen Pt 2](https://us06web.zoom.us/rec/share/WicIbgiuciGAlelYtSp_YQEdMQr6xpmXTw45NVFx5gDFeggUF_biSUo5fGI4v30T.ihI7_2bCWsie0WdQ?pwd=ymr5YkadOwlcLaV2tuM7i6GNLFB_XAMR)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
@@ -149,7 +151,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
 
 ## Instruction Staff
 
-- _Lead Instructor:_ Samuel Valdes Gutierrez [valdesgutierrez@gmil.com](mailto:sgutierrez@codingdojo.com)
+- _Lead Instructor:_ Samuel Valdes Gutierrez [sgutierrez@codingdojo.com](mailto:sgutierrez@codingdojo.com)
 - _Support Instructor:_ Jorge Gutierrez [jgutierrez@codingdojo.cl](mailto:jgutierrez@codingdojo.cl)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
@@ -181,6 +183,7 @@ During the course, useful resources will be listed below for guiding students in
   - [Display:Inline vs Inline-Block vs Block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks)
   - [Flex Froggy: Learn to use CSS Flex](https://flexboxfroggy.com/)
+  - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
 
 - **JS**
   - [Javascript Playground](https://playcode.io/empty_javascript)

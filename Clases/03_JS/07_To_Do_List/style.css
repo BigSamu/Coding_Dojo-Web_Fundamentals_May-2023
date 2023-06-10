@@ -14,6 +14,14 @@ body {
 
 }
 
+h1 {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+
 .container {
   width: 400px;
   height: 500px;
@@ -22,26 +30,18 @@ body {
   background-color: grey;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  max-height: 800px;
   display: flex;
   flex-direction: column;
   justify-content: start;
 }
 
-h1 {
-  text-align: center;
-  color: white;
-  text-decoration: underline;
-  margin-bottom: 20px;
-}
-
-.add-task {
+#add-task {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
 }
 
-.add-task input[type="text"] {
+#add-task input[type="text"] {
   flex: 1;
   padding: 10px;
   border: none;
@@ -50,7 +50,7 @@ h1 {
   margin-right: 10px;
 }
 
-.add-task button {
+#add-task button {
   padding: 10px 15px;
   background-color: #4caf50;
   color: white;
@@ -61,16 +61,21 @@ h1 {
   margin-left: 10px;
 }
 
-.task-list {
+h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+
+#task-container {
   background-color: white;
   padding: 20px;
   border-radius: 5px;
   flex: 1;
 }
 
-h2 {
-  margin-top: 0;
-  margin-bottom: 10px;
+#task-list{
+  list-style-type: none;
 }
 
 .task-item {

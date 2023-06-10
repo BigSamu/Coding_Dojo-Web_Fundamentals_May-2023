@@ -1,7 +1,7 @@
 
 function addTask() {
   var taskInput = document.getElementById('task-input');
-  var taskList = document.getElementById('tasks');
+  var taskList = document.getElementById('task-list');
 
   if (taskInput.value.trim() !== '') {
     var taskItem = document.createElement('li');

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- 0.1) Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- 0.2) Title Tags -->
+    <title>Carousel</title>
+    <!-- 0.3) Link and script Tags -->
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Carousel</h1>
+
+      <div id="carousel-container">
+        <div id="prev" class="carousel-control" onclick="moveToPrevImage()"><span>&lt;</span></div>
+        <!-- <div id="prev" class="carousel-control"><span>&lt;</span></div> -->
+        <div id="carousel">
+          <img class="carousel-image" src="./images/cat.png" alt="cat" />
+          <img class="carousel-image" src="./images/dog.png" alt="dog" />
+          <img class="carousel-image" src="./images/mouse.png" alt="mouse" />
+        </div>
+        <div id="next" class="carousel-control" onclick="moveToNextImage()"><span>&gt;</span></div>
+        <!-- <div id="next" class="carousel-control"><span>&gt;</span></div> -->
+      </div>
+      <div id="indicator-container">
+        <span class="indicator" onClick="moveToImage(0)"></span>
+        <span class="indicator" onClick="moveToImage(1)"></span>
+        <span class="indicator" onClick="moveToImage(2)"></span>
+        <!-- <span class="indicator"></span>
+        <span class="indicator"></span>
+        <span class="indicator"></span> -->
+      </div>
+    </div>
+  </body>
+</html>
