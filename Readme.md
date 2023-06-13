@@ -140,6 +140,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Tutorial 05: Flex y Media queries](https://us06web.zoom.us/rec/share/dZFQFf08B68p7OjOUMpaE3Xtu2zVsvXOAN0--mzlTfyfR29tcdWF1aqFGTQVz-g.O3ckobl8vbjTf5Ar?pwd=ToVkUchbEGKLEhRWv-F26pGqjPHppUDt)
   - [Tutorial 06: Examen Pt 1](https://us06web.zoom.us/rec/share/4oeaDiIANIn_80lsm3o8c42hzX-zSkix2CH8fdV-ZXsoSDjs1Y7Tw-9f6ZfpAomm.Ln-Rj1V_JsxNcXLP?pwd=bbWgLkGbrVc9zqMYYlsKpX1tMC2yrHnu)
   - [Tutorial 07: Examen Pt 2](https://us06web.zoom.us/rec/share/WicIbgiuciGAlelYtSp_YQEdMQr6xpmXTw45NVFx5gDFeggUF_biSUo5fGI4v30T.ihI7_2bCWsie0WdQ?pwd=ymr5YkadOwlcLaV2tuM7i6GNLFB_XAMR)
+  - [Tutorial 08: Examen Pt 2](https://us06web.zoom.us/rec/share/rv7Ei6ZYOYO2jND_lXbOCfzM1FpgbAgqiXOUjZZOEtuPqSgfe9_m1ttLzTE3q30.1ZgnV4VlParh9kPb?pwd=fL4JOk3kh3iTJpYgKi-abJPlVSviED-_)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
