@@ -131,6 +131,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Lecture 04: CCS Position, Media Queries and Pseudo-classes & JS Basics](https://us06web.zoom.us/rec/share/t5bOpvGprwg75sGmiUcsIKJ-Dnv7fDOWCBqosEXDAn0Vo0g5K4DUFb_I49kJkswl.vnwSaRwP3Y8cqvIX?pwd=Wmu9-Q9kkpnYy1xTM39K_5sldONTC3W_)
   - [Lecture 05: JS Basics & DOM Manipulation](https://us06web.zoom.us/rec/share/SZ3SwQQUt06WYVQuBwsxINNpljAhV6MgiKj1np7uWDY2ALgr3-JXLx2Sc6Qn3nef.NmDebto85Vq8tIG2?pwd=4gXiEXE4bXSrC0AKXPvi8TQFBmzA5IPm)
   - [Lecture 06: DOM Manipulation II](https://us06web.zoom.us/rec/share/gUAiemH1mhFriPgVBk2uB2WvTAJZSX7Pb_6cATsuWF8KKwp2Xjragsg59w-D2zKc.o62WxhLkh36x8gOR?pwd=M8Mzs5cdaXHPu5v0rjoQONI1RMqr45Tk)
+  - [Lecture 07: Bootstrap](https://us06web.zoom.us/rec/share/g58ZepFN15u6JOXyY7eY-GYkNecP9Vwr5ygwVy9_OTl6j5VYrtSkff0JIvgQXGyv.yQf4xc1HIgEzqkZI?pwd=tGiu8pDtlFolqItIH_7HCLEGAJ_nMBNR)
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
@@ -186,12 +187,14 @@ During the course, useful resources will be listed below for guiding students in
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks)
   - [Flex Froggy: Learn to use CSS Flex](https://flexboxfroggy.com/)
   - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
+  - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
 - **JS**
   - [Javascript Playground](https://playcode.io/empty_javascript)
 
 - **ChatGPT**
   - [ChatGPT](https://openai.com/blog/chatgpt)
+
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
