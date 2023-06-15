@@ -143,6 +143,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Tutorial 07: Examen Pt 2](https://us06web.zoom.us/rec/share/WicIbgiuciGAlelYtSp_YQEdMQr6xpmXTw45NVFx5gDFeggUF_biSUo5fGI4v30T.ihI7_2bCWsie0WdQ?pwd=ymr5YkadOwlcLaV2tuM7i6GNLFB_XAMR)
   - [Tutorial 08: Examen Pt 3](https://us06web.zoom.us/rec/share/rv7Ei6ZYOYO2jND_lXbOCfzM1FpgbAgqiXOUjZZOEtuPqSgfe9_m1ttLzTE3q30.1ZgnV4VlParh9kPb?pwd=fL4JOk3kh3iTJpYgKi-abJPlVSviED-_)
   - [Tutorial 09: To-Do list](https://us06web.zoom.us/rec/share/YvPSwQJ2dUhh5HJBJXEdoeAobwxQM-Jl_aSi5ZAH-BH5XZCTX30yCLWV9osp8zth.w_FOKYL5Y62UmJ8P?pwd=VzSPPsdyv-nTd5wNjnomqzDpPRRX4u54)
+  - [Tutorial 10: Bootstrap](https://us06web.zoom.us/rec/share/Ixo8sqDW5P0r8kZPvsto_DRxxtnsOWMOd8Rjsw4Xxqg_dujUEjjz9army2Xv77QU.rnJDYuQuCoHZb87r?pwd=n0R8JnrnOSGDcGlV8WDn2XAvn-y9PTiD)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
