@@ -1,6 +1,7 @@
 var pending_tasks = [];
 var done_tasks = [];
-var counter = 0
+var counter = 0;
+
 
 function create_task(){
     var input_elemt = document.querySelector("input");
