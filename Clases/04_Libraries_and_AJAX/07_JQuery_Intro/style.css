@@ -1,0 +1,20 @@
+h1 {
+  color: #333;
+}
+
+p {
+  color: #999;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ccc;
+  border: none;
+  cursor: pointer;
+}
+
+#hoverDiv {
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+}
