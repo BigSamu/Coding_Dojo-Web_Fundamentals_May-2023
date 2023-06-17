@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.create-task-bar {
+    margin: 10px 12px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+    border-radius: 10px;
+    padding: 20px 0px;
+}
+
+.create-task-bar > input {
+    height: 30px;
+    width: 70%;
+    font-size: 16px;
+}
+
+.create-task-bar > button {
+    height: 24px;
+    width: 20%;
+}
+
+.pending-tasks{
+    margin: 12px 8px 20px 8px;
+    background-color: salmon;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.task-text {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.icon {
+    height: 20px;
+}
+
+.done-tasks {
+    background-color: lightsteelblue;
+    border-radius: 10px;
+    padding: 20px 10px;
+    margin: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+.name-row {
+    width: 80%;
+}
+
+.action-row {
+    width: 15%;
+}
+
+#line {
+    position: relative;
+    top: 12px
+}

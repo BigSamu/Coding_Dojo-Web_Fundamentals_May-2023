@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To-Do App</title>
+  
+  <script defer src="https://code.jquery.com/jquery-3.7.0.slim.min.js"></script>
+  
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="main">
+
+      <h1>To-Do App</h1>
+
+      <div class="create-task-bar">
+        <input type="text" placeholder="Write your tasks">
+        <button id="create_task_button">Create Task</button>
+      </div>
+
+      <h2>Pending tasks</h2>
+
+      <div class="pending-tasks">
+
+      </div>
+
+      <h2>Done tasks</h2>
+
+      <div class="done-tasks">
+        <table>
+          <thead>
+            <tr>
+              <td class="name-row">Name</td>
+              <td class="action-row">Action</td>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
