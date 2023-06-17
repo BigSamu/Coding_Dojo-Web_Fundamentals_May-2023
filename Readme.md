@@ -132,6 +132,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Lecture 05: JS Basics & DOM Manipulation](https://us06web.zoom.us/rec/share/SZ3SwQQUt06WYVQuBwsxINNpljAhV6MgiKj1np7uWDY2ALgr3-JXLx2Sc6Qn3nef.NmDebto85Vq8tIG2?pwd=4gXiEXE4bXSrC0AKXPvi8TQFBmzA5IPm)
   - [Lecture 06: DOM Manipulation II](https://us06web.zoom.us/rec/share/gUAiemH1mhFriPgVBk2uB2WvTAJZSX7Pb_6cATsuWF8KKwp2Xjragsg59w-D2zKc.o62WxhLkh36x8gOR?pwd=M8Mzs5cdaXHPu5v0rjoQONI1RMqr45Tk)
   - [Lecture 07: Bootstrap](https://us06web.zoom.us/rec/share/g58ZepFN15u6JOXyY7eY-GYkNecP9Vwr5ygwVy9_OTl6j5VYrtSkff0JIvgQXGyv.yQf4xc1HIgEzqkZI?pwd=tGiu8pDtlFolqItIH_7HCLEGAJ_nMBNR)
+  - [Lecture 08: JQuery y AJAX](https://us06web.zoom.us/rec/share/AlsHl87rIzrnQxBIQHHp9A9K-xA9TyTH5XZnvbD7PHFlCscF4viq3bPIDUENo8IN.yxPYiZbM0T-fVSbE?pwd=bK7uNNeCOVPXNt8kQTYsprj1QtCQdLxp)
 
 - **Tutorials (Jorge)**
   - [Tutorial 01: Intro to Git and Termianl](https://us06web.zoom.us/rec/share/NY3VMw82fJ8sJFp3ea1duMkHAtuOGHnBthizW0Et254YZQ3onNzyWNtBc_yUUg.QZUt2FsM5up3jKnE?pwd=Qp6phsdz0UtWDjaSNcwzMytnqhIwksLO)
@@ -144,6 +145,7 @@ Regarding the course, the main communication channels will be Zoom and Discord a
   - [Tutorial 08: Examen Pt 3](https://us06web.zoom.us/rec/share/rv7Ei6ZYOYO2jND_lXbOCfzM1FpgbAgqiXOUjZZOEtuPqSgfe9_m1ttLzTE3q30.1ZgnV4VlParh9kPb?pwd=fL4JOk3kh3iTJpYgKi-abJPlVSviED-_)
   - [Tutorial 09: To-Do list](https://us06web.zoom.us/rec/share/YvPSwQJ2dUhh5HJBJXEdoeAobwxQM-Jl_aSi5ZAH-BH5XZCTX30yCLWV9osp8zth.w_FOKYL5Y62UmJ8P?pwd=VzSPPsdyv-nTd5wNjnomqzDpPRRX4u54)
   - [Tutorial 10: Bootstrap](https://us06web.zoom.us/rec/share/Ixo8sqDW5P0r8kZPvsto_DRxxtnsOWMOd8Rjsw4Xxqg_dujUEjjz9army2Xv77QU.rnJDYuQuCoHZb87r?pwd=n0R8JnrnOSGDcGlV8WDn2XAvn-y9PTiD)
+  - [Tutorial 11: JQuery y AJAX](https://us06web.zoom.us/rec/share/A0RajhruDV_Tv3SvhnBs5e8XnBoas1ccWIJBPKFRkOFlomQfJHeR08Komw45Kp4.1jIQ4NsYQX1s7awl?pwd=Likg-wZDSPiqHb5xlEcO6NIwmgX_YaIw)
 
 <p align="right">(<a href="#back-to-top">back to top</a>)</p>
 
@@ -192,6 +194,7 @@ During the course, useful resources will be listed below for guiding students in
 
 - **JS**
   - [Javascript Playground](https://playcode.io/empty_javascript)
+  - [JQuery](https://jquery.com/)
 
 - **ChatGPT**
   - [ChatGPT](https://openai.com/blog/chatgpt)

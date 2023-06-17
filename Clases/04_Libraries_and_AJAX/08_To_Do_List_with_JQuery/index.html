@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- 0.1) Meta Tags -->
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- 0.2) Title Tags -->
+  <title>Todo List with JQuery</title>
+  <!-- 0.3) JQuery CDN Libraries -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
+  <!-- 0.4) Local CCS and JS files-->
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Todo List</h1>
+    <div id="add-task">
+      <input type="text" id="task-input" placeholder="Enter a task">
+      <button id="add-task-button">Add Task</button>
+    </div>
+
+    <div id="task-container">
+      <h2>Tasks:</h2>
+      <ul id="task-list">
+        <!-- Tasks will be dynamically added here -->
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

@@ -38,3 +38,4 @@ console.log("----------------------");
 for (let i = 0; i < moreFruits.length; i++) {
   console.log(moreFruits[i]);
 }
+
